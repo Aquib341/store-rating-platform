@@ -24,3 +24,5 @@ Prerequisites
 * Node.js (v14 or higher)
 * PostgreSQL
 * npm or yarn
+
+<!-- Uploading "Screenshot 2025-08-22 at 4.15.00 AM.png"... -->
