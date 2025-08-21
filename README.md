@@ -26,3 +26,4 @@ Prerequisites
 * npm or yarn
 
 <!-- Uploading "Screenshot 2025-08-22 at 4.15.00 AM.png"... -->
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/1fbc98f1-ae32-4d09-a815-7441df604430" />
